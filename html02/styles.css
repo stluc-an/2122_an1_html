@@ -5,10 +5,15 @@ dkfgldgjd
 */
 
 body{
-    background-color: #30ffd0;
+    xbackground-color: #30ffd0;
 }
 
 h1{
     font-family: sans-serif;
     font-weight: normal;
+    border: 1vw dashed #000;
+    width: 50vh;
+    font-size: 2em;
+    margin: 8px auto;
+    text-align: center;
 }
