@@ -1,0 +1,45 @@
+/* commentaire 
+blabalbl
+sfgofsdgsdghjd
+dkfgldgjd
+*/
+
+body{
+    xbackground-color: #30ffd0;
+}
+
+h1{
+    font-family: sans-serif;
+    font-weight: normal;
+    border: 1vw dashed #000;
+    width: 50vh;
+    font-size: 2em;
+    margin: 8px auto;
+    text-align: center;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .brol{
+    color:black;
+    text-decoration: none;
+    cursor: wait;
+}
+
+h1 a:hover{
+    text-decoration: underline;
+    font-size: 2em;
+}
+
+#blabla{
+    background-color: magenta;
+}
+
+.fluo{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+a.fluo{
+    color:red;
+    text-decoration: none;
+    font-weight: normal;
+}
