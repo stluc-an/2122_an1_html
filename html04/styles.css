@@ -1,0 +1,54 @@
+@font-face{
+    font-family: "Nunito";
+    font-weight: 400;/* ou "normal" */
+    src: url("fonts/nunito/Nunito-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "Nunito";
+    font-weight: 400;/* ou "normal" */
+    font-style: italic;
+    src: url("fonts/nunito/Nunito-Italic.ttf") format("truetype");
+}
+
+@font-face{
+    font-family: "Plex";
+    font-weight: 100;
+    src: url("fonts/plexmono/IBMPlexMono-Thin.otf") format("opentype");
+}
+
+@font-face{
+    font-family: "Plex";
+    font-weight: 200;
+    src: url("fonts/plexmono/IBMPlexMono-Light.otf") format("opentype");
+}
+
+@font-face{
+    font-family: "Plex";
+    font-weight: 400;
+    src: url("fonts/plexmono/IBMPlexMono-Regular.otf") format("opentype");
+}
+
+@font-face{
+    font-family: "Plex";
+    font-weight: 500;
+    src: url("fonts/plexmono/IBMPlexMono-Medium.otf") format("opentype");
+}
+
+@font-face{
+    font-family: "Plex";
+    font-weight: 800;
+    src: url("fonts/plexmono/IBMPlexMono-Bold.otf") format("opentype");
+}
+
+html{
+    font-family: "Nunito", sans-serif;
+}
+
+h1{
+    font-style: italic;
+}
+
+blockquote{
+    font-family: "Plex", monospace;
+}
